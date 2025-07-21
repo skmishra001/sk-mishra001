@@ -70,16 +70,7 @@ Here are some of the technologies I've been working with recently:
 
 ---
 
-### 📊 GitHub Stats
 
-Here are some stats about my GitHub activity.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Your-GitHub-Username]&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-GitHub-Username]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 <!-- You can add more sections here, such as: -->
 <!-- 
@@ -89,5 +80,5 @@ Here are some stats about my GitHub activity.
 
 ---
 
-<p align="center">⭐️ From [Your Name]</p>
+<p align="center">⭐️ From Shubham mishra</p>
 
