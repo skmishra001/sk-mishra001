@@ -5,7 +5,7 @@ You can find more icons at https://shields.io/ or https://simpleicons.org/
 -->
 
 <h1 align="center">Hi there, I'm Shubham mishra👋</h1>
-<h3 align="center">A passionate Frontend Developer from Jamshedpur Jharkhand </h3>
+<h3 align="center">A passionate Developer from Jamshedpur Jharkhand </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/skmishra001" target="_blank">
@@ -13,6 +13,10 @@ You can find more icons at https://shields.io/ or https://simpleicons.org/
   </a>
   <a href="https://twitter.com/shubh_talks" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+   </a>
+   <a href="mailto:shubham2020gpad@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
