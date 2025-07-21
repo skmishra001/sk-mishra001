@@ -20,14 +20,13 @@ You can find more icons at https://shields.io/ or https://simpleicons.org/
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on traffic control system
-- 🌱 I’m currently learning **[Technology/Skill you are learning]**
-- 👯 I’m looking to collaborate on **[Types of projects, e.g., open-source React projects]**
-- 🤔 I’m looking for help with **[A specific challenge or topic]**
-- 💬 Ask me about **[Your areas of expertise, e.g., JavaScript, React, and Node.js]**
-- 📫 How to reach me: **[shubham2020gpad@gmail.com]**
-- 😄 Pronouns: He/Him
-- 
+- 🔭 I’m currently working on **building robust and scalable backend systems with Flask and SQL for real-world applications**
+- 🌱 I’m currently learning **Machine Learning and Distributed Systems**
+- 🧑‍🤝‍🧑 I’m looking to collaborate on **open-source backend or AI-based projects**
+- 🤔 I’m looking for help with **deploying machine learning models in production**
+- 💬 Ask me about **Python, Flask, REST APIs, and system design**
+- 📫 How to reach me: [shubham2020gpad@gmail.com](mailto:shubham2020gpad@gmail.com)
+- 😄 Pronouns: **He/Him**
 
 ---
 
