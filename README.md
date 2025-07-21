@@ -25,9 +25,9 @@ You can find more icons at https://shields.io/ or https://simpleicons.org/
 - 👯 I’m looking to collaborate on **[Types of projects, e.g., open-source React projects]**
 - 🤔 I’m looking for help with **[A specific challenge or topic]**
 - 💬 Ask me about **[Your areas of expertise, e.g., JavaScript, React, and Node.js]**
-- 📫 How to reach me: **[your-email@example.com]**
-- 😄 Pronouns: **[He/Him, She/Her, etc.]**
-- ⚡ Fun fact: **[A fun fact about you!]**
+- 📫 How to reach me: **[shubham2020gpad@gmail.com]**
+- 😄 Pronouns: He/Him
+- 
 
 ---
 
